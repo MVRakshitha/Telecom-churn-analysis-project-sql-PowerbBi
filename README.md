@@ -61,9 +61,13 @@ Churn Rate: 27.0%
 ### 7. Business Impact & Insights
 
 Customer Retention Strategy : Helps identify high-risk customers and take proactive actions to reduce churn.
+
 Revenue Protection : By targeting customers likely to leave, businesses can minimize revenue loss.
+
 Service Improvement : Insights into churn reasons (e.g., competitor offers, service quality) help improve offerings.
+
 Targeted Marketing : Enables personalized campaigns based on demographics, location, and behavior.
+
 Strategic Decision-Making : Supports data-driven decisions to optimize pricing, contracts, and customer experience.
 
 ### 8. Screenshots / Demos
