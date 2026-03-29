@@ -40,15 +40,15 @@ New Joiners: 411
 Total Churn: 1,732
 Churn Rate: 27.0%
 
-Predicted Churn Profile (Left Panel) : Displays churn distribution by gender, age group, marital status, tenure, payment method, and contract type, helping identify high-risk customer segments.
-Customers at Risk (Right Panel Table) : Shows a detailed list of predicted churners with revenue, referrals, and monthly charges, enabling targeted retention strategies.
-Churn by Gender (Donut Chart) : Visualizes churn distribution between male and female customers to identify gender-based trends.
-Churn Rate by Age Group (Bar Chart) : Highlights which age groups have higher churn rates, helping businesses focus on vulnerable segments.
-Churn by State (Geographic Analysis) : Displays top states with highest churn rates, supporting region-based decision-making.
-Churn by Internet Type (Bar Chart) : Compares churn across services like Fiber Optic, Cable, and DSL to identify service-related issues.
-Churn by Payment Method (Bar Chart) : Shows how payment methods (Credit Card, Bank Withdrawal, Mailed Check) impact churn behavior.
-Churn by Contract Type (Bar Chart) : Indicates that customers with month-to-month contracts have higher churn, while long-term contracts reduce churn.
-Churn Distribution by Category (Bar Chart) : Breaks down churn reasons such as competitor offers, attitude, dissatisfaction, and pricing, highlighting key drivers.
+• Predicted Churn Profile (Left Panel) : Displays churn distribution by gender, age group, marital status, tenure, payment method, and contract type, helping identify high-risk customer segments.
+• Customers at Risk (Right Panel Table) : Shows a detailed list of predicted churners with revenue, referrals, and monthly charges, enabling targeted retention strategies.
+• Churn by Gender (Donut Chart) : Visualizes churn distribution between male and female customers to identify gender-based trends.
+• Churn Rate by Age Group (Bar Chart) : Highlights which age groups have higher churn rates, helping businesses focus on vulnerable segments.
+• Churn by State (Geographic Analysis) : Displays top states with highest churn rates, supporting region-based decision-making.
+• Churn by Internet Type (Bar Chart) : Compares churn across services like Fiber Optic, Cable, and DSL to identify service-related issues.
+• Churn by Payment Method (Bar Chart) : Shows how payment methods (Credit Card, Bank Withdrawal, Mailed Check) impact churn behavior.
+• Churn by Contract Type (Bar Chart) : Indicates that customers with month-to-month contracts have higher churn, while long-term contracts reduce churn.
+• Churn Distribution by Category (Bar Chart) : Breaks down churn reasons such as competitor offers, attitude, dissatisfaction, and pricing, highlighting key drivers.
 
 • Business Impact & Insights
 
@@ -59,5 +59,5 @@ Targeted Marketing : Enables personalized campaigns based on demographics, locat
 Strategic Decision-Making : Supports data-driven decisions to optimize pricing, contracts, and customer experience.
 
 6. Screenshots / Demos
-Dashboard Preview 1 - (https://github.com/MVRakshitha/Telecom-churn-analysis-project-sql-PowerbBi/blob/main/Churn%20Analysis%20-Summary%20.jpg)
-Dashboard Preview 2 - (https://github.com/MVRakshitha/Telecom-churn-analysis-project-sql-PowerbBi/blob/main/Churn%20Analysis%20-%20Prediction.jpg)
+![Dashboard Preview 1 ](https://github.com/MVRakshitha/Telecom-churn-analysis-project-sql-PowerbBi/blob/main/Churn%20Analysis%20-%20Prediction.jpg)
+![Dashboard Preview 2 ](https://github.com/MVRakshitha/Telecom-churn-analysis-project-sql-PowerbBi/blob/main/Churn%20Analysis%20-%20Prediction.jpg)
